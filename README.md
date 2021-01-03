@@ -1,7 +1,4 @@
-# URC Full stack website C#
-Team Name:     [URCC] - Undergraduate Research Coordinator Coordinators
-
-Team members:  Calvin Tu, Khoi Tran, Ping Cheng Chung
+# URC Full stack web C#
 
 Date:          November, 2020
 
