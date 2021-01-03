@@ -7,7 +7,7 @@ AWS Publishing
 
 Microsoft Identify manager
 
-GoogleChat
+GoogleChart
 
 AJAX
 
