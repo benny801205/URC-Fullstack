@@ -3,7 +3,7 @@
 Date:          November, 2020
 
 
-AQS Publishing
+AWS Publishing
 
 Microsoft Identify manager
 
