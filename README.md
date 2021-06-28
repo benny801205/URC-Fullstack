@@ -14,7 +14,7 @@ Deployed URL:  Calvin: http://ec2-75-101-242-168.compute-1.amazonaws.com/
 
 
 ## Library
-JQuery, Bootstrap
+JQuery, Bootstrap, Google Chart
 ## Tools
 ASP.NET, Microsoft Identity Manager, Microsoft SQL Server, AntiForgeryToken
 
