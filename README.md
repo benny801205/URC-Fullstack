@@ -12,7 +12,13 @@ Deployed URL:  Calvin: http://ec2-75-101-242-168.compute-1.amazonaws.com/
                Ping: http://ec2-34-204-51-81.compute-1.amazonaws.com/
 ```
 
-##Demo
+
+## Library
+JQuery, Bootstrap
+## Tools
+ASP.NET, Microsoft Identity Manager, Microsoft SQL Server, AntiForgeryToken
+
+## Demo
 <img src="examples/1.png">
 <img src="examples/2.png">
 <img src="examples/3.png">
